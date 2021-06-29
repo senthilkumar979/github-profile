@@ -30,6 +30,11 @@ I am a Full stack developer, Speaker, Blogger, Open source contributor
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Preparing a Best Resume Content](https://senthilk979.medium.com/preparing-a-best-resume-content-9f827b380dd8?source=rss-b19f3c2484a0------2)
+- [How hiring managers read your resume?](https://senthilk979.medium.com/how-hiring-managers-read-your-resume-b9fd1b1ce520?source=rss-b19f3c2484a0------2)
+- [Send mail from Node JS app and deploy in AWS EC2](https://senthilk979.medium.com/send-mail-from-node-js-app-and-deploy-in-aws-ec2-db006be86a85?source=rss-b19f3c2484a0------2)
+- [Deploy Node JS application in AWS EC2](https://senthilk979.medium.com/deploy-node-js-application-in-aws-ec2-423bad14aba8?source=rss-b19f3c2484a0------2)
+- [When to use Node.js](https://javascript.plainenglish.io/when-to-use-node-js-569f9de017b5?source=rss-b19f3c2484a0------2)
 <!-- BLOG-POST-LIST:END -->
 
 	
